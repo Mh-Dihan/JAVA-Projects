@@ -1,2 +1,2 @@
-# JAVA-Project-CSE215-
+# JAVA-Projects
 All Academic &amp; Self Skill-development Java projects are given here.
